@@ -1,0 +1,9 @@
+[Inputs]
+=saldo[7:0]=
+=valor_debito[3:0]=
+[Outputs]
+saldo_suficiente
+[BiDir]
+[ATTRIBUTES]
+VeriModel VerificadorDeSaldo
+
